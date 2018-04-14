@@ -3,7 +3,7 @@ package com.sharingif.cube.coin.app.autoconfigure;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * CoinAutoConfigure
+ * AutoConfigure
  *
  * @author Joly
  * @version v1.0
@@ -11,6 +11,6 @@ import org.springframework.context.annotation.Configuration;
  * 2017/7/16 下午11:04
  */
 @Configuration
-public class CoinAutoConfigure {
+public class AutoConfigure {
 
 }
